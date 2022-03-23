@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 class SinglePassCluster():
-    def __init__(self, stopWords_path="text_cluster/data/stop_words_2.txt", my_stopwords=None,
+    def __init__(self, stopWords_path="/Users/zhongshannan/Documents/data_processing/text_cluster/data/stop_words_2.txt", my_stopwords=None,
                  max_df=0.5, max_features=1000,
                  simi_threshold=0.5, res_save_path="text_cluster/data/cluster_res.json"):
         self.stopwords = self.load_stopwords(stopWords_path)
