@@ -1,0 +1,7 @@
+text,image,label,event,target,prediction,prob,score,text_score,image_score
+rt  \@refugees  today mediterranean sea arrivals to europe reach 1 million  49  are from syri,refugees_13.jpg,real,29,0,1,0.9206806,"[0.07931946, 0.9206806]","[0.41062433, 0.58937573]","[0.15864712, 0.8413529]"
+rt  \@refugees  today mediterranean sea arrivals to europe reach 1 million  49  are from syri,refugees_13.jpg,real,29,0,1,0.9206806,"[0.07931946, 0.9206806]","[0.41062433, 0.58937573]","[0.15864712, 0.8413529]"
+rt  \@refugees  from  #aylankurdi tragedy to start of european refugee relocation   #refugeecrisis 201,refugees_6.jpg,real,29,0,1,0.5818247,"[0.4181753, 0.5818247]","[0.4933911, 0.5066089]","[0.37741372, 0.62258625]"
+rt  \@refugees  from  #aylankurdi tragedy to start of european refugee relocation   #refugeecrisis 201,refugees_6.jpg,real,29,0,1,0.5818247,"[0.4181753, 0.5818247]","[0.4933911, 0.5066089]","[0.37741372, 0.62258625]"
+rt  \@unhcrcanada  2015 was the year of europe is   #refugee crisis  read the 7 key events in this unfolding drama   http,refugees_6.jpg,real,29,0,1,0.67935073,"[0.32064927, 0.67935073]","[0.54564613, 0.45435384]","[0.37108773, 0.62891227]"
+rt  \@amirasaid  june 20 is world refugee day  i could never imagine the strength it takes to leave home  the only place you have  know,refugees_7.jpg,real,29,0,1,0.6130218,"[0.3869782, 0.6130218]","[0.5671426, 0.4328574]","[0.41478142, 0.58521855]"
